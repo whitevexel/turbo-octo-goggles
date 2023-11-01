@@ -1,4 +1,4 @@
-from src.main import A
+from tests.main import A
 
 
 def test_main():
